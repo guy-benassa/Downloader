@@ -1,0 +1,9 @@
+{
+  "maxNumberOfConcurrentDownloads": "2",
+  "outputDirectory": "C:\\DownloadTool",
+  "urlsToDownload": {
+    "https://stackoverflow.com/questions/4328711/read-url-to-string-in-few-lines-of-java-code": 25,
+    "https://stackoverflow.com/questions/2016083/what-is-the-easiest-way-to-parallelize-a-task-in-java": 240,
+    "https://stackoverflow.com/questions/1938101/how-to-initialize-an-array-in-java": 23
+  }
+}
